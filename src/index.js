@@ -6,7 +6,9 @@ const elemento = document.getElementById('root');
 
 ReactDOM.render(
   <div>
-    <h1>teste</h1>
+    <PrimeiroComponente />
+    <PrimeiroComponente />
+    <PrimeiroComponente />
   </div>,
   elemento,
 );
