@@ -4,7 +4,7 @@ import PrimeiroComponente from './componentes/PrimeiroComponente';
 
 const elemento = document.getElementById('root');
 
-console.log(elemento);
+console.log(elemento)
 
 ReactDOM.render(
   <div>
