@@ -9,4 +9,4 @@ ReactDOM.render(
     <PrimeiroComponente />
   </div>,
   elemento,
-);
+)
